@@ -2,7 +2,7 @@
 //  RatingControl.swift
 //  FoodTracker
 //
-//  Created by Tran Ngoc Nam on 4/10/18.
+//  Created by Tran Ngoc Nam on 14/10/18.
 //  Copyright © 2018 Tran Ngoc Nam. All rights reserved.
 //
 

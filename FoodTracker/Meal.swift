@@ -2,7 +2,7 @@
 //  Meal.swift
 //  FoodTracker
 //
-//  Created by Tran Ngoc Nam on 4/11/18.
+//  Created by Tran Ngoc Nam on 14/11/18.
 //  Copyright © 2018 Tran Ngoc Nam. All rights reserved.
 //
 
